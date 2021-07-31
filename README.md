@@ -3,7 +3,7 @@
 <h3 align="center">A weird Smilesman (?!) and a passionate UI/UX Designer from Earth.</h3>
 
 
-<p> <img src="https://www.itxwebsolutions.com/wp-content/uploads/2020/04/web-design-gif.gif" alt="trombo481" /> </p><br><br><br>
+<p> <img src="https://www.itxwebsolutions.com/wp-content/uploads/2020/04/web-design-gif.gif" alt="trombo481" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trombo481" alt="trombo481" /></a> </p>
 
