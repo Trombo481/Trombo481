@@ -29,7 +29,7 @@
 
 <a href="https://codepen.io/trombo481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="trombo481" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/trombokendu chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trombokendu chakraborty" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/trombokendu-chakraborty-8a8a86206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trombokendu chakraborty" height="30" width="40" /></a>
 
 <a href="https://stackoverflow.com/users/trombokendu chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="trombokendu chakraborty" height="30" width="40" /></a>
 
