@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trombokendu Chakraborty</h1>
 
 <h3 align="center">A weird Smilesman (?!) and a passionate UI/UX Designer from Earth.</h3>
-<img align="right" alt="Coding" width="400">
+
 
 <p> <img src="https://www.itxwebsolutions.com/wp-content/uploads/2020/04/web-design-gif.gif" alt="trombo481" /> </p><br><br><br>
 
