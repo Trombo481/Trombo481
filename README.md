@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trombokendu Chakraborty</h1>
 
 <h3 align="center">A weird Smilesman (?!) and a passionate UI/UX Designer from Earth.</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5885477-Ui-Ux-Design/attachments/5885477-Ui-Ux-Design?mode=media">
+<img align="right" alt="Coding" width="400" src="https://qphs.fs.quoracdn.net/main-qimg-4ddc3b6f73efa64e44cac3c979140577">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trombo481&label=Profile%20views&color=0e75b6&style=flat" alt="trombo481" /> </p>
 
